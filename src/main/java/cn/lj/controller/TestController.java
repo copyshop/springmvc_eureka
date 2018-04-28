@@ -12,4 +12,5 @@ public class TestController {
     public String register_eureka(){
         return "register success";
     }
+
 }
